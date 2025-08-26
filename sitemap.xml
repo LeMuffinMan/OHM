@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://LeMuffinMan.github.io/OHM/animals/</loc>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/fashion-beauty/</loc>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/nature/</loc>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/categories/animals/</loc>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/animals/cats/</loc>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/</loc>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/categories/nature/</loc>
+    <lastmod>2023-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/animals/dogs/</loc>
+    <lastmod>2023-01-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/about/</loc>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/categories/beauty/</loc>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/categories/fashion/</loc>
+  </url><url>
+    <loc>https://LeMuffinMan.github.io/OHM/imprint/</loc>
+  </url>
+</urlset>
