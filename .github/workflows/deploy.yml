@@ -4,33 +4,39 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Cache Hugo Modules
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.HUGO_CACHEDIR }}
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v0.26.1
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.119.0'  # ou 'latest'
           extended: true
 
-      - name: Setup Go Modules
-        uses: actions/setup-go@v4
-        with:
-          go-version: '1.24'
-
-      - name: Build Hugo site
+      - name: Build site
         run: hugo --minify
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
+
