@@ -1,4 +1,0 @@
-baseURL = 'https://LeMuffinMan.github.io/OHM'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = ["github.com/nicokaiser/hugo-theme-gallery/v4"]
