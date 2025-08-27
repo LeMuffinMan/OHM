@@ -19,7 +19,7 @@ jobs:
       - name: Cache Hugo Modules
         uses: actions/cache@v4
         with:
-          path: ${{ env.HUGO_CACHEDIR }}
+          path: ~/.cache/hugo
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
@@ -27,7 +27,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.119.0'  # ou 'latest'
+          hugo-version: '0.119.0' # ou "latest"
           extended: true
 
       - name: Build site
