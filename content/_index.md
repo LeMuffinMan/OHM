@@ -1,7 +1,7 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Olivier Hellome personal photography site.
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: OHM
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:
@@ -11,7 +11,7 @@ menus:
     name: Home
     weight: -1
 # sub-galleries on list pages are sorted by date and weight (descending)
-#cascade:
-#  build:
-#    publishResources: false # do not include full images. Also disable download
+cascade:
+  build:
+    publishResources: false # do not include full images. Also disable download
 ---

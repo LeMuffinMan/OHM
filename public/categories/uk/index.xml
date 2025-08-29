@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uk on Gallery</title>
+    <link>http://localhost:1313/OHM/categories/uk/</link>
+    <description>Recent content in Uk on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <copyright>© Your Name</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 01:33:39 +0100</lastBuildDate><atom:link href="http://localhost:1313/OHM/categories/uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>London</title>
+      <link>http://localhost:1313/OHM/travel/europe/london/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <guid>http://localhost:1313/OHM/travel/europe/london/</guid>
+        <media:content url="http://localhost:1313/OHM/travel/europe/london/DSCF1968_hu_eacf9f6f8b498c0d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/OHM/travel/europe/london/DSCF1968_hu_eacf9f6f8b498c0d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

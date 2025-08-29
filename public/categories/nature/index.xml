@@ -8,37 +8,16 @@
     <language>en</language>
     <managingEditor>user@example.com (Your Name)</managingEditor>
     <webMaster>user@example.com (Your Name)</webMaster>
-    <copyright>© Your Name</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/OHM/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Your Name</copyright><atom:link href="http://localhost:1313/OHM/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nature</title>
-      <link>http://localhost:1313/OHM/nature/</link>
+      <title>Mountains</title>
+      <link>http://localhost:1313/OHM/mountains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>http://localhost:1313/OHM/nature/</guid>
-        <media:content url="http://localhost:1313/OHM/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu_78c4b5834e55523c.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/OHM/mountains/</guid>
+        <media:content url="http://localhost:1313/OHM/mountains/DSCF6272_hu_6277800c776e0ce.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/OHM/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu_78c4b5834e55523c.jpg&quot; /&gt;
-          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Cats</title>
-      <link>http://localhost:1313/OHM/animals/cats/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>user@example.com (Your Name)</author>
-      <guid>http://localhost:1313/OHM/animals/cats/</guid>
-        <media:content url="http://localhost:1313/OHM/animals/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu_482cced7a78c727f.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/OHM/animals/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu_482cced7a78c727f.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Dogs</title>
-      <link>http://localhost:1313/OHM/animals/dogs/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>user@example.com (Your Name)</author>
-      <guid>http://localhost:1313/OHM/animals/dogs/</guid>
-        <media:content url="http://localhost:1313/OHM/animals/dogs/milli-2l0CWTpcChI-unsplash_hu_ad15b1cf708de973.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/OHM/animals/dogs/milli-2l0CWTpcChI-unsplash_hu_ad15b1cf708de973.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;img src=&quot;http://localhost:1313/OHM/mountains/DSCF6272_hu_6277800c776e0ce.jpg&quot; /&gt;
+          &lt;p&gt;My mountains photography.&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
