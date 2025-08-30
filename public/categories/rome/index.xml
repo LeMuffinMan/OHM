@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rome on OHM</title>
+    <link>http://localhost:1313/OHM/categories/rome/</link>
+    <description>Recent content in Rome on OHM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ohm.streetphoto@gmail.com (Olivier Hellome)</managingEditor>
+    <webMaster>ohm.streetphoto@gmail.com (Olivier Hellome)</webMaster>
+    <copyright>© OHM</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 01:33:39 +0100</lastBuildDate><atom:link href="http://localhost:1313/OHM/categories/rome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rome</title>
+      <link>http://localhost:1313/OHM/travel/europe/rome/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
+      <guid>http://localhost:1313/OHM/travel/europe/rome/</guid>
+        <media:content url="http://localhost:1313/OHM/travel/europe/rome/DSCF1003_hu_bc668c13b3e6306e.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/OHM/travel/europe/rome/DSCF1003_hu_bc668c13b3e6306e.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

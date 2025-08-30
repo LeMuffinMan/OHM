@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on Gallery</title>
+    <title>Travel on OHM</title>
     <link>http://localhost:1313/OHM/categories/travel/</link>
-    <description>Recent content in Travel on Gallery</description>
+    <description>Recent content in Travel on OHM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Your Name)</managingEditor>
-    <webMaster>user@example.com (Your Name)</webMaster>
-    <copyright>© Your Name</copyright>
+    <managingEditor>ohm.streetphoto@gmail.com (Olivier Hellome)</managingEditor>
+    <webMaster>ohm.streetphoto@gmail.com (Olivier Hellome)</webMaster>
+    <copyright>© OHM</copyright>
     <lastBuildDate>Thu, 01 Jan 1970 01:33:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/OHM/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Egypt</title>
       <link>http://localhost:1313/OHM/travel/egypt/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/travel/egypt/</guid>
         <media:content url="http://localhost:1313/OHM/travel/egypt/DSC_7206_hu_b67c8915ecbc36c7.jpg" type="image/jpeg"/>
         <description>

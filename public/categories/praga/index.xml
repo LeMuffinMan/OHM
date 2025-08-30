@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Praga on OHM</title>
+    <link>http://localhost:1313/OHM/categories/praga/</link>
+    <description>Recent content in Praga on OHM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ohm.streetphoto@gmail.com (Olivier Hellome)</managingEditor>
+    <webMaster>ohm.streetphoto@gmail.com (Olivier Hellome)</webMaster>
+    <copyright>© OHM</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 01:33:39 +0100</lastBuildDate><atom:link href="http://localhost:1313/OHM/categories/praga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Praga</title>
+      <link>http://localhost:1313/OHM/travel/europe/praga/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
+      <guid>http://localhost:1313/OHM/travel/europe/praga/</guid>
+        <media:content url="http://localhost:1313/OHM/travel/europe/praga/DSCF8837_hu_2d0229b517b4edeb.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/OHM/travel/europe/praga/DSCF8837_hu_2d0229b517b4edeb.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

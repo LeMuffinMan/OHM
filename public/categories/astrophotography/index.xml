@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Astrophotography on Gallery</title>
+    <title>Astrophotography on OHM</title>
     <link>http://localhost:1313/OHM/categories/astrophotography/</link>
-    <description>Recent content in Astrophotography on Gallery</description>
+    <description>Recent content in Astrophotography on OHM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Your Name)</managingEditor>
-    <webMaster>user@example.com (Your Name)</webMaster>
-    <copyright>© Your Name</copyright><atom:link href="http://localhost:1313/OHM/categories/astrophotography/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>ohm.streetphoto@gmail.com (Olivier Hellome)</managingEditor>
+    <webMaster>ohm.streetphoto@gmail.com (Olivier Hellome)</webMaster>
+    <copyright>© OHM</copyright><atom:link href="http://localhost:1313/OHM/categories/astrophotography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Astrophotography</title>
       <link>http://localhost:1313/OHM/astrophotography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/astrophotography/</guid>
         <media:content url="http://localhost:1313/OHM/astrophotography/DSCF7702-Avec%20accentuation-Bruit_hu_1b04122558bab6f8.jpg" type="image/jpeg"/>
         <description>

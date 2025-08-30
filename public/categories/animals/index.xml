@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Animals on Gallery</title>
+    <title>Animals on OHM</title>
     <link>http://localhost:1313/OHM/categories/animals/</link>
-    <description>Recent content in Animals on Gallery</description>
+    <description>Recent content in Animals on OHM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Your Name)</managingEditor>
-    <webMaster>user@example.com (Your Name)</webMaster>
-    <copyright>© Your Name</copyright><atom:link href="http://localhost:1313/OHM/categories/animals/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>ohm.streetphoto@gmail.com (Olivier Hellome)</managingEditor>
+    <webMaster>ohm.streetphoto@gmail.com (Olivier Hellome)</webMaster>
+    <copyright>© OHM</copyright><atom:link href="http://localhost:1313/OHM/categories/animals/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

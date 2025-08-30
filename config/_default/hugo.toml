@@ -1,25 +1,25 @@
-copyright = "© Your Name"
+copyright = "© OHM"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "Gallery"
+title = "OHM"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "OHM photography"
+  title = "OHM"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "ohm.streetphoto@gmail.com"
+    name = "Olivier Hellome"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    instagram = "https://www.instagram.com/olivier_hellome"
+    #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:ohm.streetphoto@gmail.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
@@ -28,7 +28,7 @@ title = "Gallery"
     #500px = "https://500px"
     #whatsapp = "1234567890"
   [params.gallery]
-    #boxSpacing = 10
+    boxSpacing = 5
     #targetRowHeight = 288
     #targetRowHeightTolerance = 0.25
 

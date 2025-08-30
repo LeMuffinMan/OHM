@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OHM on Gallery</title>
+    <title>OHM</title>
     <link>http://localhost:1313/OHM/</link>
-    <description>Recent content in OHM on Gallery</description>
+    <description>Recent content on OHM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Your Name)</managingEditor>
-    <webMaster>user@example.com (Your Name)</webMaster>
-    <copyright>© Your Name</copyright>
+    <managingEditor>ohm.streetphoto@gmail.com (Olivier Hellome)</managingEditor>
+    <webMaster>ohm.streetphoto@gmail.com (Olivier Hellome)</webMaster>
+    <copyright>© OHM</copyright>
     <lastBuildDate>Thu, 01 Jan 1970 01:33:40 +0100</lastBuildDate><atom:link href="http://localhost:1313/OHM/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mountains</title>
       <link>http://localhost:1313/OHM/mountains/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/mountains/</guid>
         <media:content url="http://localhost:1313/OHM/mountains/DSCF6272_hu_6277800c776e0ce.jpg" type="image/jpeg"/>
         <description>
@@ -23,7 +23,7 @@
     <item>
       <title>Astrophotography</title>
       <link>http://localhost:1313/OHM/astrophotography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/astrophotography/</guid>
         <media:content url="http://localhost:1313/OHM/astrophotography/DSCF7702-Avec%20accentuation-Bruit_hu_1b04122558bab6f8.jpg" type="image/jpeg"/>
         <description>
@@ -33,7 +33,7 @@
     <item>
       <title>Germany</title>
       <link>http://localhost:1313/OHM/travel/europe/germany/frankfurt-airpot/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/travel/europe/germany/frankfurt-airpot/</guid>
         <media:content url="http://localhost:1313/OHM/travel/europe/germany/frankfurt-airpot/DSCF3367-2_hu_53aedbe0d390a6cb.jpg" type="image/jpeg"/>
         <description>
@@ -43,7 +43,7 @@
     <item>
       <title>Amsterdam</title>
       <link>http://localhost:1313/OHM/travel/europe/amsterdam/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/travel/europe/amsterdam/</guid>
         <media:content url="http://localhost:1313/OHM/travel/europe/amsterdam/DSCF7054_hu_d90b8adf67ff47a0.jpg" type="image/jpeg"/>
         <description>
@@ -53,7 +53,7 @@
     <item>
       <title>Berlin</title>
       <link>http://localhost:1313/OHM/travel/europe/germany/berlin/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/travel/europe/germany/berlin/</guid>
         <media:content url="http://localhost:1313/OHM/travel/europe/germany/berlin/DSCF8360_hu_77bde28e14f31d3e.jpg" type="image/jpeg"/>
         <description>
@@ -63,7 +63,7 @@
     <item>
       <title>Bruxelles</title>
       <link>http://localhost:1313/OHM/travel/europe/bruxelles/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/travel/europe/bruxelles/</guid>
         <media:content url="http://localhost:1313/OHM/travel/europe/bruxelles/3DSCF5866_hu_2c1ed75e8df02d1b.jpg" type="image/jpeg"/>
         <description>
@@ -73,7 +73,7 @@
     <item>
       <title>Grenoble</title>
       <link>http://localhost:1313/OHM/france/grenoble/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/france/grenoble/</guid>
         <media:content url="http://localhost:1313/OHM/france/grenoble/1_hu_3cf3ef0431433a4c.jpg" type="image/jpeg"/>
         <description>
@@ -83,7 +83,7 @@
     <item>
       <title>London</title>
       <link>http://localhost:1313/OHM/travel/europe/london/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/travel/europe/london/</guid>
         <media:content url="http://localhost:1313/OHM/travel/europe/london/DSCF1968_hu_eacf9f6f8b498c0d.jpg" type="image/jpeg"/>
         <description>
@@ -93,7 +93,7 @@
     <item>
       <title>Lyon</title>
       <link>http://localhost:1313/OHM/france/lyon/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/france/lyon/</guid>
         <media:content url="http://localhost:1313/OHM/france/lyon/14_hu_da637049b1963269.jpg" type="image/jpeg"/>
         <description>
@@ -101,9 +101,39 @@
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
+      <title>Praga</title>
+      <link>http://localhost:1313/OHM/travel/europe/praga/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
+      <guid>http://localhost:1313/OHM/travel/europe/praga/</guid>
+        <media:content url="http://localhost:1313/OHM/travel/europe/praga/DSCF8837_hu_2d0229b517b4edeb.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/OHM/travel/europe/praga/DSCF8837_hu_2d0229b517b4edeb.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Rome</title>
+      <link>http://localhost:1313/OHM/travel/europe/rome/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
+      <guid>http://localhost:1313/OHM/travel/europe/rome/</guid>
+        <media:content url="http://localhost:1313/OHM/travel/europe/rome/DSCF1003_hu_bc668c13b3e6306e.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/OHM/travel/europe/rome/DSCF1003_hu_bc668c13b3e6306e.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Venise</title>
+      <link>http://localhost:1313/OHM/travel/europe/venise/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
+      <guid>http://localhost:1313/OHM/travel/europe/venise/</guid>
+        <media:content url="http://localhost:1313/OHM/travel/europe/venise/DSCF0391_hu_42309f3a1d247150.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/OHM/travel/europe/venise/DSCF0391_hu_42309f3a1d247150.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Egypt</title>
       <link>http://localhost:1313/OHM/travel/egypt/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate><author>user@example.com (Your Name)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate><author>ohm.streetphoto@gmail.com (Olivier Hellome)</author>
       <guid>http://localhost:1313/OHM/travel/egypt/</guid>
         <media:content url="http://localhost:1313/OHM/travel/egypt/DSC_7206_hu_b67c8915ecbc36c7.jpg" type="image/jpeg"/>
         <description>
